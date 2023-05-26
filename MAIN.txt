@@ -1,0 +1,2 @@
+Szkolenie Beckhoff.
+Witamy na szkoleniu GIT.
